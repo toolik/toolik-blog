@@ -16,7 +16,6 @@ dominate~=2.6.0
 greenlet~=1.1.2
 gunicorn~=20.1.0
 itsdangerous~=2.1.2
-pip~=21.1.2
 psycopg2-binary~=2.9.3
 python-dotenv~=0.20.0
 setuptools~=57.0.0
